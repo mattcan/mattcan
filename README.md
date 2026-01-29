@@ -6,7 +6,7 @@ Senior Platform Engineer with 10+ years of experience building cloud infrastruct
 - 🔭 I'm currently working at **Platformatic** as a developer
 - 🌱 I'm continuously learning and improving my skills
 - 👯 I'm looking to collaborate on interesting projects
-- 💬 Ask me about JavaScript, Python, Rust
+- 💬 Ask me about JavaScript, Typescript, Rust
 - 📫 Reach me on the socials
 - 📍 Located in: **Canada, British Columbia, Sunshine Coast**
 
